@@ -1,0 +1,1 @@
+test = {'name': 'q12', 'points': 3, 'suites': [{'cases': [{'code': '>>> assert np.ceil(history) == 22\n', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
