@@ -1,3 +1,0 @@
-bitstring
--e git+https://github.com/HAMZA310/jupyter-testing.git#egg=jupyter-testing
-
