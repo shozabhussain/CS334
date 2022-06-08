@@ -1,0 +1,1 @@
+test = {'name': 'q9', 'points': 3, 'suites': [{'cases': [{'code': ">>> assert q9_pivot.shape[0] + q9_pivot.shape[1] == 5\n", 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
