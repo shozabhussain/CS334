@@ -1,3 +1,0 @@
-PyTorch: https://colab.research.google.com/drive/1iA59ePH3h9HGbi4FR8981_9z2Of3Ij0v#scrollTo=RUnKm3Rjnr4t
-
-Implementation: https://colab.research.google.com/drive/1BqBr_11rOqhzVaD8V2_oldT0c8b0PJ3h#scrollTo=IN9cntDC5c5q
